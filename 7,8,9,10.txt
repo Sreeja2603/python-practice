@@ -1,0 +1,27 @@
+7.differences bw compiled and interpreted languages:
+                          compiled                                       |                          interpreted 
+   1. the compile programs run faster than         1.the interpreted programs run slower than
+        interpreted programs.                                         compiled programs.
+   2.the compiled program follows atleast          2.an interpreted language follows only one step 
+       two levels to get from source code to              to get source code to execution.
+       execution.
+   3.the code of compiled language can be         3.a program written in an interpreted language
+       executed directly by the computer's                 is not compiled,it is interpreted.
+       CPU.
+   4.this language delivers better perform           4.this language example delivers relatively
+      ance                                                                             slower performance .
+==============================================================================
+8.data types in python are:
+    integer,boolean,float,complex,string,list,set,tuple,dictionary.
+==============================================================================
+9.                 list                                     |                          set
+     *lists are ordered                             *sets are unordered
+     *allows duplicate members          *no duplicate members
+     *square brackets[ ]                          *curly brackets{ }
+     *changeable                                      *cannot be changed,but can be added
+==============================================================================
+10.            list                                      |                      tuple
+     *mutable                                         * immutable
+    *square brackets[]                          *round brackets()
+    *list objects can't be used as        *tuple objects can be used as
+      keys for dictionary                          keys for dictionary
